@@ -1,2 +1,2 @@
 # testingrepo
-![img](../gh-actions/blob/main/XMLStructure.png)
+![img](/../../../../gh-actions/blob/main/XMLStructure.png)
